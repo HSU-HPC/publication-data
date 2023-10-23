@@ -1,0 +1,964 @@
+Removing mpi version 2021.6.0
+Use `module list` to view any remaining dependent modules.
+Loading mpi version 2021.6.0
+Using 'srun' is recommended as it takes advantage of all slurm features and respects the configured parallel process manager (env: I_MPI_PMI_LIBRARY)
+while 'mpirun' falls back to the Hydra process manager (and returns a warning about that).
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Initialization: 65399ms
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish coupling cycle 0
+Finish coupling cycle 12
+Finish coupling cycle 24
+Finish coupling cycle 36
+Finish coupling cycle 48
+Finish coupling cycle 60
+Finish coupling cycle 72
+Finish coupling cycle 84
+Finish coupling cycle 96
+Finish coupling cycle 108
+Finish coupling cycle 120
+Finish coupling cycle 132
+Finish coupling cycle 144
+Finish coupling cycle 156
+Finish coupling cycle 168
+Finish coupling cycle 180
+Finish coupling cycle 192
+Finish coupling cycle 204
+Finish coupling cycle 216
+Finish coupling cycle 228
+Finish coupling cycle 240
+Finish coupling cycle 252
+Finish coupling cycle 264
+Finish coupling cycle 276
+Finish coupling cycle 288
+Finish coupling cycle 300
+Finish coupling cycle 312
+Finish coupling cycle 324
+Finish coupling cycle 336
+Finish coupling cycle 348
+Finish coupling cycle 360
+Finish coupling cycle 372
+Finish coupling cycle 384
+Finish coupling cycle 396
+Finish coupling cycle 408
+Finish coupling cycle 420
+Finish coupling cycle 432
+Finish coupling cycle 444
+Finish coupling cycle 456
+Finish coupling cycle 468
+Finish coupling cycle 480
+Finish coupling cycle 492
+Finish coupling cycle 504
+Finish coupling cycle 516
+Finish coupling cycle 528
+Finish coupling cycle 540
+Finish coupling cycle 552
+Finish coupling cycle 564
+Finish coupling cycle 576
+Finish coupling cycle 588
+Finish coupling cycle 600
+Finish coupling cycle 612
+Finish coupling cycle 624
+Finish coupling cycle 636
+Finish coupling cycle 648
+Finish coupling cycle 660
+Finish coupling cycle 672
+Finish coupling cycle 684
+Finish coupling cycle 695
+Finish coupling cycle 707
+Finish coupling cycle 719
+Finish coupling cycle 731
+Finish coupling cycle 743
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.60933
+	GAUSS: 0.592
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 3.04667
+	GAUSS: 2.024
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.50533
+	GAUSS: 0.672
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.46267
+	GAUSS: 0.718667
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.77333
+	GAUSS: 1.1
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 3.24133
+	GAUSS: 2.11867
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.27067
+	GAUSS: 0.817333
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 3.212
+	GAUSS: 2.112
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.14667
+	GAUSS: 0.516
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.692
+	GAUSS: 0.512
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.87067
+	GAUSS: 1.14933
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finished all coupling cycles after 648.062 s
+Time percentages Micro, Macro, Filter, Other: 
+98.8974, 0.508705,  4.44402e-05, 0.59383
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.384
+	GAUSS: 0.84
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.276
+	GAUSS: 0.858667
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.428
+	GAUSS: 0.82
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 2.76667
+	GAUSS: 2.01467
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.23733
+	GAUSS: 0.778667
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.22533
+	GAUSS: 0.521333
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.72667
+	GAUSS: 0.514667
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.59733
+	GAUSS: 0.886667
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.62667
+	GAUSS: 0.626667
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 3.104
+	GAUSS: 2.072
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.31333
+	GAUSS: 0.552
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.72667
+	GAUSS: 0.868
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.316
+	GAUSS: 0.841333
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.432
+	GAUSS: 0.885333
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.44933
+	GAUSS: 0.849333
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.44
+	GAUSS: 0.461333
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.62133
+	GAUSS: 1.20533
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.46667
+	GAUSS: 0.584
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.75867
+	GAUSS: 1.11067
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 3.10933
+	GAUSS: 2.14933
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.352
+	GAUSS: 0.889333
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.43867
+	GAUSS: 0.816
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.75067
+	GAUSS: 1.104
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.512
+	GAUSS: 0.565333
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.77733
+	GAUSS: 0.848
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.176
+	GAUSS: 0.582667
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 3.00533
+	GAUSS: 1.99867
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.596
+	GAUSS: 1.06133
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.22667
+	GAUSS: 0.589333
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.45467
+	GAUSS: 0.521333
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.11467
+	GAUSS: 0.652
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.81867
+	GAUSS: 1.192
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.78133
+	GAUSS: 0.798667
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.48267
+	GAUSS: 0.889333
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 3.104
+	GAUSS: 2.144
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.83733
+	GAUSS: 1.13733
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 1.16133
+	GAUSS: 0.468
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+########################################
+#            Job Accounting            #
+########################################
+Name                : mamico_scale
+User                : <REDACTED>
+Account             : beta
+Partition           : small
+QOS                 : normal
+NNodes              : 2
+Nodes               : node[0361,0365]
+Cores               : 288 (144 physical)
+GPUs                : 0
+State               : COMPLETED
+ExitCode            : 0:0
+Submit              : 2023-10-01T17:45:04
+Start               : 2023-10-01T17:45:04
+End                 : 2023-10-01T17:57:07
+Waited              :   00:00:00
+Reserved walltime   :   01:00:00
+Used walltime       :   00:12:03
+Used CPU time       : 1-04:31:25 (Efficiency: 98.63%)
+% User (Computation): 99.78%
+% System (I/O)      :  0.22%
+Mem reserved        : 490000M
+Max Mem used        : 175.62M (node0361)
+Max Disk Write      : 40.69M (node0361)
+Max Disk Read       : 1.42M (node0365,node0361)
+Energy (CPU+Mem)    : 0.25kWh (0.11kg CO2, 0.13€)

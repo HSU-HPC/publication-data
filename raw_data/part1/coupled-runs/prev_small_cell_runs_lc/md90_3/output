@@ -1,0 +1,658 @@
+Removing mpi version 2021.6.0
+Use `module list` to view any remaining dependent modules.
+Loading mpi version 2021.6.0
+Using 'srun' is recommended as it takes advantage of all slurm features and respects the configured parallel process manager (env: I_MPI_PMI_LIBRARY)
+while 'mpirun' falls back to the Hydra process manager (and returns a warning about that).
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Initialization: 35ms
+Finish CouetteScenario::initSolvers() 
+Finish coupling cycle 1
+Finish coupling cycle 4
+Finish coupling cycle 7
+Finish coupling cycle 10
+Finish coupling cycle 13
+Finish coupling cycle 16
+Finish coupling cycle 19
+Finish coupling cycle 22
+Finish coupling cycle 25
+Finish coupling cycle 28
+Finish coupling cycle 31
+Finish coupling cycle 34
+Finish coupling cycle 37
+Finish coupling cycle 40
+Finish coupling cycle 43
+Finish coupling cycle 46
+Finish coupling cycle 49
+Finish coupling cycle 52
+Finish coupling cycle 55
+Finish coupling cycle 58
+Finish coupling cycle 61
+Finish coupling cycle 64
+Finish coupling cycle 67
+Finish coupling cycle 70
+Finish coupling cycle 73
+Finish coupling cycle 76
+Finish coupling cycle 79
+Finish coupling cycle 82
+Finish coupling cycle 85
+Finish coupling cycle 88
+Finish coupling cycle 91
+Finish coupling cycle 94
+Finish coupling cycle 97
+Finish coupling cycle 100
+Finish coupling cycle 103
+Finish coupling cycle 106
+Finish coupling cycle 109
+Finish coupling cycle 112
+Finish coupling cycle 115
+Finish coupling cycle 118
+Finish coupling cycle 121
+Finish coupling cycle 124
+Finish coupling cycle 127
+Finish coupling cycle 130
+Finish coupling cycle 133
+Finish coupling cycle 136
+Finish coupling cycle 139
+Finish coupling cycle 142
+Finish coupling cycle 145
+Finish coupling cycle 148
+Finish coupling cycle 151
+Finish coupling cycle 154
+Finish coupling cycle 157
+Finish coupling cycle 160
+Finish coupling cycle 163
+Finish coupling cycle 166
+Finish coupling cycle 169
+Finish coupling cycle 172
+Finish coupling cycle 175
+Finish coupling cycle 178
+Finish coupling cycle 181
+Finish coupling cycle 184
+Finish coupling cycle 187
+Finish coupling cycle 190
+Finish coupling cycle 193
+Finish coupling cycle 196
+Finish coupling cycle 199
+Finish coupling cycle 202
+Finish coupling cycle 205
+Finish coupling cycle 208
+Finish coupling cycle 211
+Finish coupling cycle 214
+Finish coupling cycle 217
+Finish coupling cycle 220
+Finish coupling cycle 223
+Finish coupling cycle 226
+Finish coupling cycle 229
+Finish coupling cycle 232
+Finish coupling cycle 235
+Finish coupling cycle 238
+Finish coupling cycle 241
+Finish coupling cycle 244
+Finish coupling cycle 247
+Finish coupling cycle 250
+Finish coupling cycle 253
+Finish coupling cycle 256
+Finish coupling cycle 259
+Finish coupling cycle 262
+Finish coupling cycle 265
+Finish coupling cycle 268
+Finish coupling cycle 271
+Finish coupling cycle 274
+Finish coupling cycle 277
+Finish coupling cycle 280
+Finish coupling cycle 283
+Finish coupling cycle 286
+Finish coupling cycle 289
+Finish coupling cycle 292
+Finish coupling cycle 295
+Finish coupling cycle 298
+Finish coupling cycle 301
+Finish coupling cycle 304
+Finish coupling cycle 307
+Finish coupling cycle 310
+Finish coupling cycle 313
+Finish coupling cycle 316
+Finish coupling cycle 319
+Finish coupling cycle 322
+Finish coupling cycle 325
+Finish coupling cycle 328
+Finish coupling cycle 331
+Finish coupling cycle 334
+Finish coupling cycle 337
+Finish coupling cycle 340
+Finish coupling cycle 343
+Finish coupling cycle 346
+Finish coupling cycle 349
+Finish coupling cycle 352
+Finish coupling cycle 355
+Finish coupling cycle 358
+Finish coupling cycle 361
+Finish coupling cycle 364
+Finish coupling cycle 367
+Finish coupling cycle 370
+Finish coupling cycle 373
+Finish coupling cycle 376
+Finish coupling cycle 379
+Finish coupling cycle 382
+Finish coupling cycle 385
+Finish coupling cycle 388
+Finish coupling cycle 391
+Finish coupling cycle 394
+Finish coupling cycle 397
+Finish coupling cycle 400
+Finish coupling cycle 403
+Finish coupling cycle 406
+Finish coupling cycle 409
+Finish coupling cycle 412
+Finish coupling cycle 415
+Finish coupling cycle 418
+Finish coupling cycle 421
+Finish coupling cycle 424
+Finish coupling cycle 427
+Finish coupling cycle 430
+Finish coupling cycle 433
+Finish coupling cycle 436
+Finish coupling cycle 439
+Finish coupling cycle 442
+Finish coupling cycle 445
+Finish coupling cycle 448
+Finish coupling cycle 451
+Finish coupling cycle 454
+Finish coupling cycle 457
+Finish coupling cycle 460
+Finish coupling cycle 463
+Finish coupling cycle 466
+Finish coupling cycle 469
+Finish coupling cycle 472
+Finish coupling cycle 475
+Finish coupling cycle 478
+Finish coupling cycle 481
+Finish coupling cycle 484
+Finish coupling cycle 487
+Finish coupling cycle 490
+Finish coupling cycle 493
+Finish coupling cycle 496
+Finish coupling cycle 499
+Finish coupling cycle 502
+Finish coupling cycle 505
+Finish coupling cycle 508
+Finish coupling cycle 511
+Finish coupling cycle 514
+Finish coupling cycle 517
+Finish coupling cycle 520
+Finish coupling cycle 523
+Finish coupling cycle 526
+Finish coupling cycle 529
+Finish coupling cycle 532
+Finish coupling cycle 535
+Finish coupling cycle 538
+Finish coupling cycle 541
+Finish coupling cycle 544
+Finish coupling cycle 547
+Finish coupling cycle 550
+Finish coupling cycle 553
+Finish coupling cycle 556
+Finish coupling cycle 559
+Finish coupling cycle 562
+Finish coupling cycle 565
+Finish coupling cycle 568
+Finish coupling cycle 571
+Finish coupling cycle 574
+Finish coupling cycle 577
+Finish coupling cycle 580
+Finish coupling cycle 583
+Finish coupling cycle 586
+Finish coupling cycle 589
+Finish coupling cycle 592
+Finish coupling cycle 595
+Finish coupling cycle 598
+Finish coupling cycle 601
+Finish coupling cycle 604
+Finish coupling cycle 607
+Finish coupling cycle 610
+Finish coupling cycle 613
+Finish coupling cycle 616
+Finish coupling cycle 619
+Finish coupling cycle 622
+Finish coupling cycle 625
+Finish coupling cycle 628
+Finish coupling cycle 631
+Finish coupling cycle 634
+Finish coupling cycle 637
+Finish coupling cycle 640
+Finish coupling cycle 643
+Finish coupling cycle 646
+Finish coupling cycle 649
+Finish coupling cycle 652
+Finish coupling cycle 655
+Finish coupling cycle 658
+Finish coupling cycle 661
+Finish coupling cycle 664
+Finish coupling cycle 667
+Finish coupling cycle 670
+Finish coupling cycle 673
+Finish coupling cycle 676
+Finish coupling cycle 679
+Finish coupling cycle 682
+Finish coupling cycle 685
+Finish coupling cycle 688
+Finish coupling cycle 691
+Finish coupling cycle 694
+Finish coupling cycle 697
+Finish coupling cycle 700
+Finish coupling cycle 703
+Finish coupling cycle 706
+Finish coupling cycle 709
+Finish coupling cycle 712
+Finish coupling cycle 715
+Finish coupling cycle 718
+Finish coupling cycle 721
+Finish coupling cycle 724
+Finish coupling cycle 727
+Finish coupling cycle 730
+Finish coupling cycle 733
+Finish coupling cycle 736
+Finish coupling cycle 739
+Finish coupling cycle 742
+Finish coupling cycle 745
+Finish coupling cycle 748
+Finish coupling cycle 751
+Finish coupling cycle 754
+Finish coupling cycle 757
+Finish coupling cycle 760
+Finish coupling cycle 763
+Finish coupling cycle 766
+Finish coupling cycle 769
+Finish coupling cycle 772
+Finish coupling cycle 775
+Finish coupling cycle 778
+Finish coupling cycle 781
+Finish coupling cycle 784
+Finish coupling cycle 787
+Finish coupling cycle 790
+Finish coupling cycle 793
+Finish coupling cycle 796
+Finish coupling cycle 799
+Finish coupling cycle 802
+Finish coupling cycle 805
+Finish coupling cycle 808
+Finish coupling cycle 811
+Finish coupling cycle 814
+Finish coupling cycle 817
+Finish coupling cycle 820
+Finish coupling cycle 823
+Finish coupling cycle 826
+Finish coupling cycle 829
+Finish coupling cycle 832
+Finish coupling cycle 835
+Finish coupling cycle 838
+Finish coupling cycle 841
+Finish coupling cycle 844
+Finish coupling cycle 847
+Finish coupling cycle 850
+Finish coupling cycle 853
+Finish coupling cycle 856
+Finish coupling cycle 859
+Finish coupling cycle 862
+Finish coupling cycle 865
+Finish coupling cycle 868
+Finish coupling cycle 871
+Finish coupling cycle 874
+Finish coupling cycle 877
+Finish coupling cycle 880
+Finish coupling cycle 883
+Finish coupling cycle 886
+Finish coupling cycle 889
+Finish coupling cycle 892
+Finish coupling cycle 895
+Finish coupling cycle 898
+Finish coupling cycle 901
+Finish coupling cycle 904
+Finish coupling cycle 907
+Finish coupling cycle 910
+Finish coupling cycle 913
+Finish coupling cycle 916
+Finish coupling cycle 919
+Finish coupling cycle 922
+Finish coupling cycle 925
+Finish coupling cycle 928
+Finish coupling cycle 931
+Finish coupling cycle 934
+Finish coupling cycle 937
+Finish coupling cycle 940
+Finish coupling cycle 943
+Finish coupling cycle 946
+Finish coupling cycle 949
+Finish coupling cycle 952
+Finish coupling cycle 955
+Finish coupling cycle 958
+Finish coupling cycle 961
+Finish coupling cycle 964
+Finish coupling cycle 967
+Finish coupling cycle 970
+Finish coupling cycle 973
+Finish coupling cycle 976
+Finish coupling cycle 979
+Finish coupling cycle 982
+Finish coupling cycle 985
+Finish coupling cycle 988
+Finish coupling cycle 991
+Finish coupling cycle 994
+Finish coupling cycle 997
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finished all coupling cycles after 4628.03 s
+Time percentages Micro, Macro, Filter, Other: 
+91.6356, 1.66083,  4.3431e-06, 6.70356
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+########################################
+#            Job Accounting            #
+########################################
+Name                : mamico_scale
+User                : <REDACTED>
+Account             : beta
+Partition           : small
+QOS                 : normal
+NNodes              : 1
+Nodes               : node0057
+Cores               : 144 (72 physical)
+GPUs                : 0
+State               : COMPLETED
+ExitCode            : 0:0
+Submit              : 2023-09-26T13:09:15
+Start               : 2023-09-26T13:09:16
+End                 : 2023-09-26T14:26:28
+Waited              :   00:00:01
+Reserved walltime   :   06:00:00
+Used walltime       :   01:17:12
+Used CPU time       : 3-20:09:03 (Efficiency: 99.47%)
+% User (Computation): 99.98%
+% System (I/O)      :  0.02%
+Mem reserved        : 245000M
+Max Mem used        : 377.10M (node0057)
+Max Disk Write      : 14.54M (node0057)
+Max Disk Read       : 1.42M (node0057)
+Energy (CPU+Mem)    : 0.82kWh (0.34kg CO2, 0.43€)

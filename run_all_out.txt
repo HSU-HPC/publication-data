@@ -1,0 +1,108 @@
+Fr 20. Okt 20:49:33 CEST 2023
+
+===== ./data/full-md-domain-size.csv =====
+energy consumption (kWh)~CPU time (s): 0.9999549018446957
+md_domain_volume~CPU time (s): 0.9994042246627483
+md_domain_volume~energy consumption (kWh): 0.999423105574093
+fit energy consumption (kWh): 5.3e-07x+0.0453 (r2=0.99885)
+fit CPU time (s): 0.208x+1.84e+04 (r2=0.99881)
+
+===== ./data/prev_big_cell_runs_lc.csv =====
+energy consumption (kWh)~CPU time (s): 0.9999750422982155
+md_domain_volume~CPU time (s): 0.9998752252587578
+md_domain_volume~energy consumption (kWh): 0.9997988510253512
+fit energy consumption (kWh): 6.52e-07x+0.0469 (r2=0.9996)
+
+===== ./data/full-md-domain-size.csv (MD) vs ./data/prev_big_cell_runs_lc.csv (Coupled) =====
+Full MD fit: 5.3e-07x+0.0453 (r2=0.99885)
+Coupled fit: 6.52e-07x+0.0469 (r2=0.9996)
+
+===== ['MD60', 'MD120', 'MD180'] =====
+Abs. err = 0.10441/sqrt(M) (r2=0.9999)
+
+Compute correlations
+Correlation avg. SNR gain ~ abs. velocity error: -0.95510881272344
+SNR = -1.99e+02 * ERR + 18.4 (r2=0.91223)
+
+
+===== ['MD60', 'MD120', 'MD180'] - energy =====
+
+
+===== ['MD60', 'MD120', 'MD180'] - snr_gain =====
+
+Reading from <REDACTED>/data/md60_snr_avg.csv
+Reading from <REDACTED>/data/md60_abs_error.csv
+Reading from <REDACTED>/data/md120_snr_avg.csv
+Reading from <REDACTED>/data/md120_abs_error.csv
+Reading from <REDACTED>/data/md180_snr_avg.csv
+Reading from <REDACTED>/data/md180_abs_error.csv
+Writing all data to <REDACTED>/data/multimd-all.csv
+Reading from <REDACTED>/data/md120_snr_avg.csv
+Reading from <REDACTED>/data/md120_abs_error.csv
+Reading from <REDACTED>/data/md180_snr_avg.csv
+Reading from <REDACTED>/data/md180_abs_error.csv
+Writing all data to <REDACTED>/data/filtering-all.csv
+PDFCROP 1.40, 2020/06/06 - Copyright (c) 2002-2020 by Heiko Oberdiek, Oberdiek Package Support Group.
+==> 1 page written on `figures/energy_model.pdf'.
+energy_md(v) = beta_1 * v + beta_2	energy_md(v) = 5.3032e-07 * v + 0.04527	r2=0.99885
+----------
+MULTI-MD:
+mean SNR(M) = gamma_1 * log M + gamma_2	mean SNR(M) = 4.0784 * log M + 0.22211	r2=0.99653
+mean SNR(e) = gamma_1*log((temp*k*num_cells) / (num_particles*e**2))+gamma_2	mean SNR(e) = 4.0784*log((1.1*1*1728.0) / (171500*e**2))+0.22211	r2=0.99602
+----------
+FILTERING:
+mean SNR(M) = gamma_1 * log M + gamma_2	mean SNR(M) = 3.66 * log M + 4.5004	r2=0.97947
+mean SNR(e) = gamma_1*log((temp*k*num_cells) / (num_particles*e**2))+gamma_2	mean SNR(e) = 3.66*log((1.1*1*1728.0) / (171500*e**2))+4.5004	r2=0.97954
+----------
+energy_coupled(V,M) = (alpha_1 * V + alpha_2)*(beta_1 * M + beta_2)	energy_coupled(V,M) = (-6.3129e-11 * V + 1.5695e-05)*(-0.23051 * M + 0.34342)	r2=0.98171
+md_volume (40,)
+num_md_sims (40,)
+avg_energy_per_timestep (40,)
+
+test data error (kWh): mean=0.00024496, stdev=0.0001569, max=0.00050176
+test data error (%): mean=20.079%, stdev=16.785%, max=57.67%
+
+LaTeX table of test data results:
+\begin{tabular}{rrrrr}
+\toprule
+MD domain volume & Number of MD instances & Number of nodes & Absolute model error & Relative model error \\
+\midrule
+$80^3$ & 36 & 36 & $0.07015\,\text{Wh}$ & $34.65705\%$ \\
+$80^3$ & 72 & 72 & $0.36818\,\text{Wh}$ & $57.67038\%$ \\
+$80^3$ & 108 & 108 & $0.31020\,\text{Wh}$ & $43.17867\%$ \\
+$80^3$ & 144 & 144 & $0.40523\,\text{Wh}$ & $42.59209\%$ \\
+$100^3$ & 36 & 36 & $0.01279\,\text{Wh}$ & $3.27818\%$ \\
+$100^3$ & 72 & 72 & $0.03717\,\text{Wh}$ & $4.59908\%$ \\
+$100^3$ & 108 & 108 & $0.13254\,\text{Wh}$ & $10.21828\%$ \\
+$100^3$ & 144 & 144 & $0.27892\,\text{Wh}$ & $15.18249\%$ \\
+$120^3$ & 18 & 18 & $0.07009\,\text{Wh}$ & $24.56352\%$ \\
+$120^3$ & 36 & 36 & $0.15819\,\text{Wh}$ & $27.05294\%$ \\
+$160^3$ & 36 & 36 & $0.25020\,\text{Wh}$ & $14.87590\%$ \\
+$160^3$ & 72 & 72 & $0.20472\,\text{Wh}$ & $5.46958\%$ \\
+$160^3$ & 108 & 108 & $0.50176\,\text{Wh}$ & $7.76123\%$ \\
+$160^3$ & 144 & 72 & $0.47677\,\text{Wh}$ & $6.35525\%$ \\
+$180^3$ & 128 & 64 & $0.39750\,\text{Wh}$ & $3.72320\%$ \\
+\bottomrule
+\end{tabular}
+
+
+Maximum values:
+time_percent_macro     0.590184
+time_percent_filter    0.000174
+dtype: float64
+Exporting MD60 multimd	(mean total walltime = 766 sec)	to <REDACTED>/figures/macro_micro_timestats_60_multimd.pdf
+Exporting MD120 multimd	(mean total walltime = 8364 sec)	to <REDACTED>/figures/macro_micro_timestats_120_multimd.pdf
+Exporting MD180 multimd	(mean total walltime = 4194 sec)	to <REDACTED>/figures/macro_micro_timestats_180_multimd.pdf
+Exporting MD60 filter	(mean total walltime = 766 sec)	to <REDACTED>/figures/macro_micro_timestats_60_filter.pdf
+Exporting MD120 filter	(mean total walltime = 8330 sec)	to <REDACTED>/figures/macro_micro_timestats_120_filter.pdf
+Exporting MD180 filter	(mean total walltime = 4179 sec)	to <REDACTED>/figures/macro_micro_timestats_180_filter.pdf
+=== filter ===
+MD120 average doubling SNR gain: 2.7099 dB
+MD180 average doubling SNR gain: 2.2809 dB
+=== multimd ===
+MD60 average doubling SNR gain: 2.9038 dB
+MD120 average doubling SNR gain: 2.8401 dB
+MD180 average doubling SNR gain: 2.655 dB
+
+
+Done!

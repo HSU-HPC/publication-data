@@ -1,0 +1,1289 @@
+Removing mpi version 2021.6.0
+Use `module list` to view any remaining dependent modules.
+Loading mpi version 2021.6.0
+Using 'srun' is recommended as it takes advantage of all slurm features and respects the configured parallel process manager (env: I_MPI_PMI_LIBRARY)
+while 'mpirun' falls back to the Hydra process manager (and returns a warning about that).
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Initialization: 822126ms
+Finish CouetteScenario::initSolvers() 
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+	FS(gaussXY):  Setting as pipeline to macro solver output.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish coupling cycle 0
+Finish coupling cycle 1
+Finish coupling cycle 2
+Finish coupling cycle 3
+Finish coupling cycle 4
+Finish coupling cycle 5
+Finish coupling cycle 6
+Finish coupling cycle 7
+Finish coupling cycle 8
+Finish coupling cycle 9
+Finish coupling cycle 10
+Finish coupling cycle 11
+Finish coupling cycle 12
+Finish coupling cycle 13
+Finish coupling cycle 14
+Finish coupling cycle 15
+Finish coupling cycle 16
+Finish coupling cycle 17
+Finish coupling cycle 18
+Finish coupling cycle 19
+Finish coupling cycle 20
+Finish coupling cycle 21
+Finish coupling cycle 22
+Finish coupling cycle 23
+Finish coupling cycle 24
+Finish coupling cycle 25
+Finish coupling cycle 26
+Finish coupling cycle 27
+Finish coupling cycle 28
+Finish coupling cycle 29
+Finish coupling cycle 30
+Finish coupling cycle 31
+Finish coupling cycle 32
+Finish coupling cycle 33
+Finish coupling cycle 34
+Finish coupling cycle 35
+Finish coupling cycle 36
+Finish coupling cycle 37
+Finish coupling cycle 38
+Finish coupling cycle 39
+Finish coupling cycle 40
+Finish coupling cycle 41
+Finish coupling cycle 42
+Finish coupling cycle 43
+Finish coupling cycle 44
+Finish coupling cycle 45
+Finish coupling cycle 46
+Finish coupling cycle 47
+Finish coupling cycle 48
+Finish coupling cycle 49
+Finish coupling cycle 50
+Finish coupling cycle 51
+Finish coupling cycle 52
+Finish coupling cycle 53
+Finish coupling cycle 54
+Finish coupling cycle 55
+Finish coupling cycle 56
+Finish coupling cycle 57
+Finish coupling cycle 58
+Finish coupling cycle 59
+Finish coupling cycle 60
+Finish coupling cycle 61
+Finish coupling cycle 62
+Finish coupling cycle 63
+Finish coupling cycle 64
+Finish coupling cycle 65
+Finish coupling cycle 66
+Finish coupling cycle 67
+Finish coupling cycle 68
+Finish coupling cycle 69
+Finish coupling cycle 70
+Finish coupling cycle 71
+Finish coupling cycle 72
+Finish coupling cycle 73
+Finish coupling cycle 74
+Finish coupling cycle 75
+Finish coupling cycle 76
+Finish coupling cycle 77
+Finish coupling cycle 78
+Finish coupling cycle 79
+Finish coupling cycle 80
+Finish coupling cycle 81
+Finish coupling cycle 82
+Finish coupling cycle 83
+Finish coupling cycle 84
+Finish coupling cycle 85
+Finish coupling cycle 86
+Finish coupling cycle 87
+Finish coupling cycle 88
+Finish coupling cycle 89
+Finish coupling cycle 90
+Finish coupling cycle 91
+Finish coupling cycle 92
+Finish coupling cycle 93
+Finish coupling cycle 94
+Finish coupling cycle 95
+Finish coupling cycle 96
+Finish coupling cycle 97
+Finish coupling cycle 98
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 17.46
+	GAUSS: 15.28
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 18.79
+	GAUSS: 17.31
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 35.77
+	GAUSS: 34.2
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 35.78
+	GAUSS: 34.3
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 24.86
+	GAUSS: 22.99
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 24.99
+	GAUSS: 23.16
+	GAUSS: 36.55
+	GAUSS: 34.45
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 35.71
+	GAUSS: 33.95
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 33.21
+	GAUSS: 30.86
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	GAUSS: 35.89
+	GAUSS: 34.37
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 47.29
+	GAUSS: 45.9
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 14.08
+	GAUSS: 11.51
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 14.14
+	GAUSS: 11.98
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 24.91
+	GAUSS: 23
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 46.96
+	GAUSS: 45.44
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	GAUSS: 18.32
+	GAUSS: 16.73
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 14.25
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 11.52
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 25.33
+	GAUSS: 23.45
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 24.8
+	GAUSS: 23.01
+	GAUSS: 13.91
+	GAUSS: 11.57
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 47.86
+	GAUSS: 47.05
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 36.43
+	GAUSS: 34.75
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 16.77
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	GAUSS: 14.92
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 32.47
+	GAUSS: 30.77
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 47.45
+	GAUSS: 46.28
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 19.09
+	GAUSS: 16.84
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 13.44
+	GAUSS: 11.89
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 25.19
+	GAUSS: 23.35
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 47.94
+	GAUSS: 46.94
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 25.14
+	GAUSS: 23.24
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 37.11
+	GAUSS: 35.66
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 32.79
+	GAUSS: 30.92
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 35.88
+	GAUSS: 34.51
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 32.66
+	GAUSS: 30.7
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 25.45
+	GAUSS: 23.67
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 25.4
+	GAUSS: 23.38
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 13
+	GAUSS: 11.4
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 35.89
+	GAUSS: 34.44
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 18.22
+	GAUSS: 16.93
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 18.53
+	GAUSS: 17.16
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 18.71
+	GAUSS: 17.29
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 36.83
+	GAUSS: 35.29
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 18.49
+	GAUSS: 17.53
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 35.88
+	GAUSS: 34.57
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 36.37
+	GAUSS: 35.09
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 32.67
+	GAUSS: 31.16
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 25.11
+	GAUSS: 22.84
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 32.62
+	GAUSS: 30.58
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 36.7
+	GAUSS: 34.9
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 24.75
+	GAUSS: 22.91
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 25.49
+	GAUSS: 23.45
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 24.67
+	GAUSS: 22.51
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 17.02
+	GAUSS: 15.51
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 13.26
+	GAUSS: 11.62
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 24.05
+	GAUSS: 22.32
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 18.78
+	GAUSS: 16.66
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 25.55
+	GAUSS: 23.53
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 47.16
+	GAUSS: 46.56
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 17.4
+	GAUSS: 15.17
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 47.32
+	GAUSS: 45.91
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 24.85
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	GAUSS: 22.96
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 18.6
+	GAUSS: 17.24
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	GAUSS: 24.84
+	GAUSS: 22.7
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 24.86
+	GAUSS: 23
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 35.74
+	GAUSS: 30.99
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 24.89
+	GAUSS: 23
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 24.91
+	GAUSS: 22.83
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	GAUSS: 18.51
+	GAUSS: 16.69
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 17.06
+	GAUSS: 15.32
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 35.94
+	GAUSS: 33.99
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 48.16
+	GAUSS: 45.94
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 13.23
+	GAUSS: 11.82
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 48.98
+	GAUSS: 47.85
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 24.05
+	GAUSS: 21.99
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 36.57
+	GAUSS: 35.01
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 31.9
+	GAUSS: 30.46
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	GAUSS: 25
+	GAUSS: 23.08
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 25.02
+	GAUSS: 23.46
+	GAUSS: 25.27
+	GAUSS: 23.25
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 32.36
+	GAUSS: 30.82
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 24.24
+	GAUSS: 22.3
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	GAUSS: 36.23
+	GAUSS: 34.58
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 36.62
+	GAUSS: 35.01
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 32.68
+	GAUSS: 31.37
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 48.35
+	GAUSS: 47.73
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 36.64
+	GAUSS: 35.09
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 24.99
+	GAUSS: 23.06
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 13.13
+	GAUSS: 11.39
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 14.31
+	GAUSS: 11.34
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 24.77
+	GAUSS: 22.99
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 47.91
+	GAUSS: 47.18
+	GAUSS: 25.43
+	GAUSS: 23.88
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	GAUSS: 25.4
+	GAUSS: 23.62
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 17.11
+	GAUSS: 15.12
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 19.18
+	GAUSS: 17.11
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 17
+	GAUSS: 15.03
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 24.97
+	GAUSS: 23.29
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 32.98
+	GAUSS: 31.26
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 13.46
+	GAUSS: 11.56
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 18.88
+	GAUSS: 17.22
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 24.1
+	GAUSS: 22.59
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 13.9
+	GAUSS: 11.73
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 35.93
+	GAUSS: 34.48
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 32.73
+	GAUSS: 31.08
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 36.31
+	GAUSS: 34.68
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 36.53
+	GAUSS: 35.23
+	GAUSS: 36.39
+	GAUSS: 35.99
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 32.74
+	GAUSS: 31.51
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 24.28
+	GAUSS: 22.48
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 18.85
+	GAUSS: 16.72
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 25.56
+	GAUSS: 23.53
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 36.41
+	GAUSS: 34.84
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 36.37
+	GAUSS: 34.99
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 24.68
+	GAUSS: 22.96
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 24.91
+	GAUSS: 22.94
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 35.52
+	GAUSS: 34.67
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 47.64
+	GAUSS: 46.18
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 19.29
+	GAUSS: 16.98
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 25.51
+	GAUSS: 23.27
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 25.15
+	GAUSS: 23.36
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 25.21
+	GAUSS: 23.6
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 47.32
+	GAUSS: 46.39
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 36.34
+	GAUSS: 34.97
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 32.63
+	GAUSS: 30.97
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 13.24
+	GAUSS: 11.44
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 32.34
+	GAUSS: 30.68
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 35.72
+	GAUSS: 34.14
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 47.36
+	GAUSS: 46.07
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 32.37
+	GAUSS: 30.93
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 36.01
+	GAUSS: 34.32
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 47.72
+	GAUSS: 46.81
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 36.17
+	GAUSS: 34.53
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 36.17
+	GAUSS: 35.14
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 13.88
+	GAUSS: 11.76
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 18.87
+	GAUSS: 17.04
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 18.97
+	GAUSS: 16.72
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 13.51
+	GAUSS: 11.49
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 25.42
+	GAUSS: 23.44
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 48.57
+	GAUSS: 46.92
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 36.09
+	GAUSS: 34.68
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 36.25
+	GAUSS: 34.84
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 24.24
+	GAUSS: 22.34
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 17.08
+	GAUSS: 15.25
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish coupling cycle 99
+Finished all coupling cycles after 2473.75 s
+Time percentages Micro, Macro, Filter, Other: 
+97.3475, 0.12704,  0.000153896, 2.52533
+	FS(gaussXY): Average application times for filters in this sequence in μs:
+	GAUSS: 13.02
+	GAUSS: 11.45
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+########################################
+#            Job Accounting            #
+########################################
+Name                : mamico_scale
+User                : <REDACTED>
+Account             : beta
+Partition           : small
+QOS                 : normal
+NNodes              : 2
+Nodes               : node[0125,0129]
+Cores               : 288 (144 physical)
+GPUs                : 0
+State               : COMPLETED
+ExitCode            : 0:0
+Submit              : 2023-10-04T18:26:29
+Start               : 2023-10-04T19:27:18
+End                 : 2023-10-04T20:22:23
+Waited              :   00:58:48
+Reserved walltime   :   03:00:00
+Used walltime       :   00:55:05
+Used CPU time       : 5-11:21:26 (Efficiency: 99.36%)
+% User (Computation): 99.94%
+% System (I/O)      :  0.06%
+Mem reserved        : 490000M
+Max Mem used        : 309.17M (node0125)
+Max Disk Write      : 53.15M (node0125)
+Max Disk Read       : 1.42M (node0125,node0129)
+Energy (CPU+Mem)    : 1.19kWh (0.50kg CO2, 0.62€)

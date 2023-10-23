@@ -1,0 +1,14 @@
+#! /bin/bash
+#SBATCH --job-name=mmcp24-full-md-{domain_size}
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=72
+#SBATCH --partition=small # dev
+#SBATCH --cpus-per-task=1
+#SBATCH --time=24:00:00
+#SBATCH --output=output_full-md-{domain_size}_%j.log
+### some additional information (you can delete those lines)
+module load mpi
+CONFIG="config_full-md-{domain_size}.xml"
+
+cd {workdir}
+srun {ls1_bin_dir}/MarDyn $CONFIG
