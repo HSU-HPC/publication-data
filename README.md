@@ -2,10 +2,12 @@
 (Replication package) 
 
 ### Contents:
-+ `raw_data/` Input and output of the experiments, job scripts and some small post processing scripts run on the cluster (for a list of all scripts run `find raw_data/ | grep "\\.py$"`)
-+ `data/` Data aggregated and processed manually or usings scripts from `raw_data/`
-+ `figures/` Visualizations of `data/`
-+ `scripts/` Python3 script to generate files in `data/` and `figures`
+| Folder | Description |
+|---|---|
+|`raw_data/`|Input and output of the experiments, job scripts and some small post processing scripts run on the cluster (for a list of all scripts run `find raw_data/ -name '*.py'`)|
+|`data/`|Data aggregated and processed manually or usings scripts from `raw_data/`|
+|`figures/`|Visualizations of `data/`|
+|`scripts/`|Python3 script to generate files in `data/` and `figures`|
 
 ### Software
 + [ls1 mardyn](https://github.com/ls1mardyn/ls1-mardyn/tree/baca393d7)
@@ -14,5 +16,5 @@
 
 ### Basic usage
 Requirements can be installed with `pip3 install -r requirements.txt`.  
-Use `./run_all.sh | tee run_all_out.txt` to (re-)generate most output (report including analysis results and figures)
+Use `./run_all.sh | tee run_all_out.txt` to (re-)generate most output (figures and report including analysis results from stdout).
 
