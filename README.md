@@ -2,7 +2,7 @@
 (Replication package) 
 
 ### Contents:
-+ `raw_data/` Input and output of the experiments, job scripts and some small post processing scripts run on the cluster
++ `raw_data/` Input and output of the experiments, job scripts and some small post processing scripts run on the cluster (for a list of all scripts run `find raw_data/ | grep "\\.py$"`)
 + `data/` Data aggregated and processed manually or usings scripts from `raw_data/`
 + `figures/` Visualizations of `data/`
 + `scripts/` Python3 script to generate files in `data/` and `figures`
