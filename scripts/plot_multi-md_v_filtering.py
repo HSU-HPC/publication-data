@@ -45,7 +45,7 @@ for j,(k,df) in enumerate(dfs_md_sizes.items()):
         width = 5
         ax.fill_between(x, dfs[0][f'min_{args.column}'], dfs[0][f'max_{args.column}'], fc=f'C{j}', alpha=0.025)
     ax.plot(x, dfs[0][f'avg_{args.column}'], f'C{j}--', marker='x')
-    ax.plot([],[],f'C{j}--x', label=f'Multi {k}')
+    ax.plot([],[],f'C{j}--x', label=f'{k}')
 
     df = dfs[1]
     x = df['num_md_sims']
@@ -54,7 +54,7 @@ for j,(k,df) in enumerate(dfs_md_sizes.items()):
     ax.fill_between(x, df[f'min_{args.column}'], df[f'max_{args.column}'], fc=f'C{j}', alpha=0.5)
     err = (df[f'max_{args.column}'] - df[f'min_{args.column}']) / 2
     # ax.errorbar(x, y, yerr=err, c=f'C{j}') # FIXME: Not completely correct, because yerr is not symmetrical sometimes
-    ax.plot(x, y, f'C{j}-', marker='.', label=f'Multi {k} + Filtering', zorder=10)
+    ax.plot(x, y, f'C{j}-', marker='.', label=f'{k} + Filtering', zorder=10)
     ax.set_xlabel('Number of MD instances')
 
     ax.legend(edgecolor=f'k', framealpha=1, loc='lower right')

@@ -1157,33 +1157,35 @@ Run CouetteScenario...
 Run CouetteScenario...
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -1200,7 +1202,6 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -1209,6 +1210,7 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -1263,22 +1265,13 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Initialization: 65667ms
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -1286,12 +1279,17 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -1301,7 +1299,6 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -1318,12 +1315,13 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -1334,94 +1332,53 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Initialization: 65607ms
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -1436,13 +1393,66 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -1475,7 +1485,6 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -1490,68 +1499,45 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
@@ -1560,94 +1546,115 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -1659,42 +1666,39 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -1752,23 +1756,28 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -1805,8 +1814,6 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -1869,19 +1876,22 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -1892,11 +1902,11 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -1974,13 +1984,8 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -1990,35 +1995,25 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -2027,34 +2022,19 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -2064,10 +2044,8 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
@@ -2075,72 +2053,39 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -2165,12 +2110,66 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -2236,19 +2235,15 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -2256,7 +2251,7 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -2273,6 +2268,7 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -2288,171 +2284,150 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -2464,7 +2439,6 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -2472,6 +2446,7 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -2482,13 +2457,10 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -2497,6 +2469,7 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -2506,16 +2479,16 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -2524,10 +2497,47 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -2536,10 +2546,8 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -2547,7 +2555,6 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -2555,13 +2562,10 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -2570,7 +2574,6 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -2593,19 +2596,28 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -2644,7 +2656,6 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -2708,23 +2719,19 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -2735,7 +2742,6 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -2762,20 +2768,14 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -2836,14 +2836,16 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -2851,6 +2853,9 @@ Finish CouetteScenario::initSolvers()
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -2873,6 +2878,7 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -2881,6 +2887,7 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -2949,7 +2956,10 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -2957,57 +2967,34 @@ Finish CouetteScenario::initSolvers()
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
-Finish CouetteScenario::initSolvers() 
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
@@ -3028,18 +3015,31 @@ Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
-Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
 Finish CouetteScenario::initSolvers() 
@@ -3089,57 +3089,57 @@ Finish coupling cycle 108
 Finish coupling cycle 120
 Finish coupling cycle 132
 Finish coupling cycle 144
-Finish coupling cycle 156
-Finish coupling cycle 168
+Finish coupling cycle 155
+Finish coupling cycle 167
 Finish coupling cycle 179
 Finish coupling cycle 191
 Finish coupling cycle 203
 Finish coupling cycle 215
-Finish coupling cycle 227
-Finish coupling cycle 239
+Finish coupling cycle 226
+Finish coupling cycle 238
 Finish coupling cycle 250
 Finish coupling cycle 262
 Finish coupling cycle 274
 Finish coupling cycle 286
 Finish coupling cycle 298
 Finish coupling cycle 310
-Finish coupling cycle 321
-Finish coupling cycle 333
-Finish coupling cycle 345
+Finish coupling cycle 322
+Finish coupling cycle 334
+Finish coupling cycle 346
 Finish coupling cycle 357
 Finish coupling cycle 369
-Finish coupling cycle 380
-Finish coupling cycle 392
-Finish coupling cycle 404
-Finish coupling cycle 416
+Finish coupling cycle 381
+Finish coupling cycle 393
+Finish coupling cycle 405
+Finish coupling cycle 417
 Finish coupling cycle 428
 Finish coupling cycle 440
-Finish coupling cycle 451
-Finish coupling cycle 463
-Finish coupling cycle 475
+Finish coupling cycle 452
+Finish coupling cycle 464
+Finish coupling cycle 476
 Finish coupling cycle 487
 Finish coupling cycle 499
-Finish coupling cycle 510
-Finish coupling cycle 521
-Finish coupling cycle 533
-Finish coupling cycle 545
-Finish coupling cycle 557
-Finish coupling cycle 569
-Finish coupling cycle 580
-Finish coupling cycle 592
-Finish coupling cycle 604
-Finish coupling cycle 616
-Finish coupling cycle 628
-Finish coupling cycle 640
-Finish coupling cycle 651
-Finish coupling cycle 663
-Finish coupling cycle 675
-Finish coupling cycle 687
-Finish coupling cycle 699
-Finish coupling cycle 710
-Finish coupling cycle 721
-Finish coupling cycle 733
-Finish coupling cycle 745
+Finish coupling cycle 511
+Finish coupling cycle 523
+Finish coupling cycle 535
+Finish coupling cycle 547
+Finish coupling cycle 558
+Finish coupling cycle 570
+Finish coupling cycle 582
+Finish coupling cycle 594
+Finish coupling cycle 606
+Finish coupling cycle 618
+Finish coupling cycle 629
+Finish coupling cycle 641
+Finish coupling cycle 653
+Finish coupling cycle 665
+Finish coupling cycle 677
+Finish coupling cycle 688
+Finish coupling cycle 700
+Finish coupling cycle 712
+Finish coupling cycle 724
+Finish coupling cycle 736
+Finish coupling cycle 748
 Finish CouetteScenario::shutdown() 
 Shut down CouetteScenario
 Finish CouetteScenario::shutdown() 
@@ -5264,43 +5264,43 @@ Finish CouetteScenario::shutdown()
 Shut down CouetteScenario
 Finish CouetteScenario::shutdown() 
 Shut down CouetteScenario
-Finished all coupling cycles after 675.116 s
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finished all coupling cycles after 674.221 s
 Time percentages Micro, Macro, Filter, Other: 
-94.7442, 0.497794,  2.69583e-05, 4.758
-Finish CouetteScenario::shutdown() 
-Shut down CouetteScenario
-Finish CouetteScenario::shutdown() 
-Shut down CouetteScenario
-Finish CouetteScenario::shutdown() 
-Shut down CouetteScenario
-Finish CouetteScenario::shutdown() 
-Shut down CouetteScenario
-Finish CouetteScenario::shutdown() 
-Shut down CouetteScenario
-Finish CouetteScenario::shutdown() 
-Shut down CouetteScenario
-Finish CouetteScenario::shutdown() 
-Shut down CouetteScenario
-Finish CouetteScenario::shutdown() 
-Shut down CouetteScenario
-Finish CouetteScenario::shutdown() 
-Shut down CouetteScenario
-Finish CouetteScenario::shutdown() 
-Shut down CouetteScenario
-Finish CouetteScenario::shutdown() 
-Shut down CouetteScenario
-Finish CouetteScenario::shutdown() 
-Shut down CouetteScenario
-Finish CouetteScenario::shutdown() 
-Shut down CouetteScenario
-Finish CouetteScenario::shutdown() 
-Shut down CouetteScenario
-Finish CouetteScenario::shutdown() 
-Shut down CouetteScenario
-Finish CouetteScenario::shutdown() 
-Shut down CouetteScenario
-Finish CouetteScenario::shutdown() 
-Shut down CouetteScenario
+94.4765, 0.482526,  3.75248e-05, 5.04092
 Finish CouetteScenario::shutdown() 
 Shut down CouetteScenario
 Finish CouetteScenario::shutdown() 
@@ -5456,22 +5456,22 @@ Account             : beta
 Partition           : medium
 QOS                 : normal
 NNodes              : 16
-Nodes               : node[0185,0189,0193,0197,0201,0205,0209,0213,0227,0231,0233,0237,0241,0245,0257,0261]
+Nodes               : node[0095,0099,0103,0107,0111,0115,0119,0123,0127,0131,0135,0139,0143,0147,0151,0155]
 Cores               : 2304 (1152 physical)
 GPUs                : 0
 State               : COMPLETED
 ExitCode            : 0:0
-Submit              : 2023-10-01T18:38:29
-Start               : 2023-10-01T18:38:53
-End                 : 2023-10-01T18:51:17
-Waited              :   00:00:24
-Reserved walltime   :   01:00:00
-Used walltime       :   00:12:24
-Used CPU time       : 9-19:55:04 (Efficiency: 99.09%)
-% User (Computation): 99.98%
-% System (I/O)      :  0.02%
+Submit              : 2023-12-05T13:29:32
+Start               : 2023-12-05T13:32:47
+End                 : 2023-12-05T13:45:18
+Waited              :   00:03:15
+Reserved walltime   :   06:00:00
+Used walltime       :   00:12:31
+Used CPU time       : 9-19:38:53 (Efficiency: 98.06%)
+% User (Computation): 99.95%
+% System (I/O)      :  0.05%
 Mem reserved        : 3920000M
-Max Mem used        : 100.96M (node0205,node0185)
-Max Disk Write      : 42.45M (node0205,node0185)
-Max Disk Read       : 1.42M (node0205,node0245,node0185)
-Energy (CPU+Mem)    : 2.08kWh (0.88kg CO2, 1.08€)
+Max Mem used        : 99.11M (node0123,node0095)
+Max Disk Write      : 42.45M (node0123,node0095)
+Max Disk Read       : 1.43M (node0123,node0151,node0095)
+Energy (CPU+Mem)    : 2.08kWh (0.87kg CO2, 1.08€)

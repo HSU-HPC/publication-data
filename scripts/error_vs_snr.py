@@ -55,6 +55,7 @@ ax2.legend(handles=handles2, edgecolor='k',
 ax1.set_ylabel('Absolute Velocity Error')
 ax2.set_ylabel('SNR gain (dB)')
 ax1.set_xlabel('Number of MD instances')
+plt.gcf().subplots_adjust(right=0.89) # Avoid cutting the right y label
 plt.savefig('figures/error_v_snr.pdf')
 
 if '--no-show' not in sys.argv:

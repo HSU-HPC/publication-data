@@ -32,7 +32,7 @@ print('Maximum values:')
 print(df[['time_percent_macro', 'time_percent_filter']].max())
 
 dfs = [df_multimd, df_filter]
-title = ['Multi MD$n', 'Multi MD$n + Filtering']
+title = ['MD$n', 'MD$n + Filtering']
 
 
 def plot_stacked_area(df):
@@ -107,7 +107,7 @@ for r in range(rows):
         # ax.set_title(title[r].replace('$n', str(md_size)))
         runtype = df['runtype'].values[0]
         md_size = md_sizes[c]
-        plt.figure(f'Multi MD{md_size} ({runtype})', figsize=(6, 4))
+        plt.figure(f'MD{md_size} ({runtype})', figsize=(6, 4))
         df = df[df['md_size'] == md_size]
         # plot_stacked_area(df)
         plot_bars(df)
@@ -120,6 +120,7 @@ for r in range(rows):
         walltime_sec_mean = int(np.ceil(df["walltime_total_sec"].mean()))
         print(
             f'Exporting MD{md_size} {runtype}\t(mean total walltime = {walltime_sec_mean} sec)\tto {output_file}')
+        plt.tight_layout()
         plt.savefig(output_file)
         # os.system(f'pdfcrop {output_file} {output_file}')
 
