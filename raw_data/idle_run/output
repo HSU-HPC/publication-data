@@ -7,22 +7,23 @@ Account             : beta
 Partition           : small
 QOS                 : normal
 NNodes              : 1
-Nodes               : node0163
+Nodes               : node0064
 Cores               : 144 (72 physical)
 GPUs                : 0
 State               : COMPLETED
 ExitCode            : 0:0
-Submit              : 2023-12-05T14:30:33
-Start               : 2023-12-05T14:30:34
-End                 : 2023-12-05T14:42:53
+Submit              : 2023-12-06T22:30:59
+Start               : 2023-12-06T22:31:00
+End                 : 2023-12-06T22:42:32
 Waited              : 00:00:01
-Reserved walltime   : 00:15:00
-Used walltime       : 00:12:19
+Reserved walltime   : 00:12:00
+Used walltime       : 00:11:32
 Used CPU time       : 00:00:00 (Efficiency:  0.00%)
 % User (Computation): --
 % System (I/O)      : --
 Mem reserved        : 245000M
-Max Mem used        : 568.00K (node0163)
-Max Disk Write      : 0.00  (node0163)
-Max Disk Read       : 20.48K (node0163)
+Max Mem used        : 572.00K (node0064)
+Max Disk Write      : 0.00  (node0064)
+Max Disk Read       : 20.48K (node0064)
 Energy (CPU+Mem)    : 0.06kWh (0.03kg CO2, 0.03€)
+
