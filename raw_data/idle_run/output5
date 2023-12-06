@@ -1,0 +1,28 @@
+########################################
+#            Job Accounting            #
+########################################
+Name                : idle_job
+User                : <REDACTED>
+Account             : beta
+Partition           : small
+QOS                 : normal
+NNodes              : 1
+Nodes               : node0542
+Cores               : 144 (72 physical)
+GPUs                : 0
+State               : TIMEOUT
+ExitCode            : 0:0
+Submit              : 2023-12-05T13:35:41
+Start               : 2023-12-05T13:36:04
+End                 : 2023-12-05T13:41:08
+Waited              : 00:00:23
+Reserved walltime   : 00:05:00
+Used walltime       : 00:05:04
+Used CPU time       : 00:00:00 (Efficiency:  0.00%)
+% User (Computation): --
+% System (I/O)      : --
+Mem reserved        : 245000M
+Max Mem used        : 572.00K (node0542)
+Max Disk Write      : 0.00  (node0542)
+Max Disk Read       : 20.48K (node0542)
+Energy (CPU+Mem)    : 0.03kWh (0.01kg CO2, 0.01€)
