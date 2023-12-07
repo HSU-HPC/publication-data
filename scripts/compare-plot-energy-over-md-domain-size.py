@@ -1,12 +1,11 @@
 #! /usr/bin/env python3
 
-from utils import fmt_math_num, r2_score_linear, update_axis_ticks_md_volume
+from utils import r2_score_linear, update_axis_ticks_md_volume
 import pandas as pd
 import numpy as np
 import matplotlib.transforms as mtransforms
 import matplotlib.ticker as mtick
 import argparse
-import os
 import matplotlib.pyplot as plt
 plt.rcParams.update({'font.size': 12})
 

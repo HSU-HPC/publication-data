@@ -1,0 +1,134 @@
+Removing mpi version 2021.6.0
+Use `module list` to view any remaining dependent modules.
+Loading mpi version 2021.6.0
+Using 'srun' is recommended as it takes advantage of all slurm features and respects the configured parallel process manager (env: I_MPI_PMI_LIBRARY)
+while 'mpirun' falls back to the Hydra process manager (and returns a warning about that).
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Finish CouetteScenario::initSolvers() 
+Initialization: 23358ms
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish coupling cycle 0
+Finish coupling cycle 4
+Finish coupling cycle 8
+Finish coupling cycle 12
+Finish coupling cycle 16
+Finish coupling cycle 20
+Finish coupling cycle 24
+Finish coupling cycle 28
+Finish coupling cycle 32
+Finish coupling cycle 36
+Finish coupling cycle 40
+Finish coupling cycle 44
+Finish coupling cycle 48
+Finish coupling cycle 52
+Finish coupling cycle 56
+Finish coupling cycle 60
+Finish coupling cycle 64
+Finish coupling cycle 68
+Finish coupling cycle 72
+Finish coupling cycle 76
+Finish coupling cycle 80
+Finish coupling cycle 84
+Finish coupling cycle 88
+Finish coupling cycle 92
+Finish coupling cycle 96
+Finished all coupling cycles after 320.118 s
+Time percentages Micro, Macro, Filter, Other: 
+99.8454, 0.120845,  8.12201e-06, 0.0337495
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+########################################
+#            Job Accounting            #
+########################################
+Name                : mamico_scale
+User                : <REDACTED>
+Account             : beta
+Partition           : small
+QOS                 : normal
+NNodes              : 1
+Nodes               : node0570
+Cores               : 144 (72 physical)
+GPUs                : 0
+State               : COMPLETED
+ExitCode            : 0:0
+Submit              : 2023-12-07T10:28:41
+Start               : 2023-12-07T10:28:57
+End                 : 2023-12-07T10:34:46
+Waited              : 00:00:16
+Reserved walltime   : 06:00:00
+Used walltime       : 00:05:49
+Used CPU time       : 01:42:49 (Efficiency: 24.55%)
+% User (Computation): 99.95%
+% System (I/O)      :  0.04%
+Mem reserved        : 245000M
+Max Mem used        : 137.88M (node0570)
+Max Disk Write      : 5.17M (node0570)
+Max Disk Read       : 1.43M (node0570)
+Energy (CPU+Mem)    : 0.04kWh (0.02kg CO2, 0.02€)

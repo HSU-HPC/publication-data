@@ -1,0 +1,219 @@
+Removing mpi version 2021.6.0
+Use `module list` to view any remaining dependent modules.
+Loading mpi version 2021.6.0
+Using 'srun' is recommended as it takes advantage of all slurm features and respects the configured parallel process manager (env: I_MPI_PMI_LIBRARY)
+while 'mpirun' falls back to the Hydra process manager (and returns a warning about that).
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Run CouetteScenario...
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Warning: Empty md2Macro-Domain in per-instance Filter Pipeline.
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Initialization: 19688ms
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish CouetteScenario::initSolvers() 
+Finish coupling cycle 0
+Finish coupling cycle 5
+Finish coupling cycle 10
+Finish coupling cycle 15
+Finish coupling cycle 20
+Finish coupling cycle 25
+Finish coupling cycle 30
+Finish coupling cycle 35
+Finish coupling cycle 40
+Finish coupling cycle 45
+Finish coupling cycle 50
+Finish coupling cycle 55
+Finish coupling cycle 60
+Finish coupling cycle 65
+Finish coupling cycle 70
+Finish coupling cycle 75
+Finish coupling cycle 80
+Finish coupling cycle 85
+Finish coupling cycle 90
+Finish coupling cycle 95
+Finished all coupling cycles after 222.939 s
+Time percentages Micro, Macro, Filter, Other: 
+99.769, 0.173189,  5.38263e-06, 0.057823
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+Finish CouetteScenario::shutdown() 
+Shut down CouetteScenario
+########################################
+#            Job Accounting            #
+########################################
+Name                : mamico_scale
+User                : <REDACTED>
+Account             : beta
+Partition           : small
+QOS                 : normal
+NNodes              : 1
+Nodes               : node0553
+Cores               : 144 (72 physical)
+GPUs                : 0
+State               : COMPLETED
+ExitCode            : 0:0
+Submit              : 2023-12-07T10:31:07
+Start               : 2023-12-07T10:31:27
+End                 : 2023-12-07T10:35:36
+Waited              : 00:00:20
+Reserved walltime   : 06:00:00
+Used walltime       : 00:04:09
+Used CPU time       : 02:25:20 (Efficiency: 48.64%)
+% User (Computation): 99.87%
+% System (I/O)      :  0.13%
+Mem reserved        : 245000M
+Max Mem used        : 135.18M (node0553)
+Max Disk Write      : 5.17M (node0553)
+Max Disk Read       : 1.43M (node0553)
+Energy (CPU+Mem)    : 0.03kWh (0.01kg CO2, 0.02€)
