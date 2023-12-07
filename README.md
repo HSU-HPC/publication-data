@@ -3,8 +3,10 @@ _Amartya Das Sharma, Ruben Horn, Philipp Neumann: Helmut Schmidt University, Ham
 
 This repository contains the replication package (configuration, generated output, post-processing and visualization scripts) associated with our manuscript **The Error-Energy Tradeoff in Molecular and Molecular-Continuum Fluid Simulation**, submitted to the workshop "Multi-scale, Multi-physics and Coupled Problems on highly parallel systems (MMCP)" at HPC Asia 2024.
 
+### Download
+`git clone -b 2024-HPC-Asia --single-branch --depth 1 https://github.com/HSU-HPC/publication-data.git`
 
-### Contents:
+### Contents
 | Folder | Description |
 |---|---|
 |`raw_data/`|Input and output of the experiments, job scripts and some small post processing scripts run on the cluster (for a list of all scripts run `find raw_data/ -name '*.py'`)|
