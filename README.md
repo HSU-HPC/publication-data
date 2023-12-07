@@ -1,5 +1,8 @@
 # The Error-Energy Tradeoff in Molecular and Molecular-Continuum Fluid Simulation
-(Replication package) 
+_Amartya Das Sharma, Ruben Horn, Philipp Neumann: Helmut Schmidt University, Hamburg, Germany_
+
+This repository contains the replication package (configuration, generated output, post-processing and visualization scripts) associated with our manuscript **The Error-Energy Tradeoff in Molecular and Molecular-Continuum Fluid Simulation**, submitted to the workshop "Multi-scale, Multi-physics and Coupled Problems on highly parallel systems (MMCP)" at HPC Asia 2024.
+
 
 ### Contents:
 | Folder | Description |
