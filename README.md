@@ -16,11 +16,22 @@ The execution of all experiments required roughly 686,552 CPU hours.
 |`scripts/`|Python3 script to generate files in `data/` and `figures`|
 
 ### Software
-+ [ls1 mardyn](https://github.com/ls1mardyn/ls1-mardyn/tree/baca393d7)
-+ [MaMiCo](https://github.com/HSU-HPC/MaMiCo/tree/3e516cc3) with [ls1 mardyn for coupling](https://github.com/ls1mardyn/ls1-mardyn/tree/31e1e4819)
++ [ls1 mardyn](https://github.com/ls1mardyn/ls1-mardyn/tree/baca393d7)  
+  Build ls1 mardyn using the following commands:
+  ```bash
+  ml gcc mpi cmake
+  cmake -DENABLE_ADIOS2=OFF -DENABLE_MPI=ON -DOPENMP=OFF -DENABLE_AUTOPAS=OFF -DENABLE_UNIT_TESTS=OFF -DENABLE_ALLLBL=OFF -DMAMICO_COUPLING=OFF -DMAMICO_SRC_DIR="../.." ..
+  make -j8
+  ```
++ [MaMiCo](https://github.com/HSU-HPC/MaMiCo/tree/3e516cc3) with [ls1 mardyn for coupling](https://github.com/ls1mardyn/ls1-mardyn/tree/31e1e4819)  
+  Build MaMiCo using the following commands:
+  ```bash
+  ml gcc mpi cmake
+  cmake -DCMAKE_BUILD_TYPE=Release -DBUILD_WITH_MPI=ON -DMD_SIM=LS1_MARDYN ..
+  make couette -j8
+  ```
 + Slurm workload manager with [jobinfo](https://github.com/birc-aeh/slurm-utils/tree/master) running on the [HSUper cluster](https://www.hsu-hh.de/hpc/en/hsuper/) to execute the experiments and measure energy consumption using [RAPL](https://github.com/SchedMD/slurm/blob/master/src/plugins/acct_gather_energy/rapl/acct_gather_energy_rapl.c)
 
 ### Basic usage
 Requirements can be installed with `pip3 install -r requirements.txt`.  
 Use `./run_all.sh | tee run_all_out.txt` to (re-)generate most output (figures and report including analysis results from stdout).
-
